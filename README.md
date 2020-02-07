@@ -10,6 +10,6 @@ An easy app that allows anyone to access the website and enter there workout. In
 
 ## Image
 
-https://carlos-rojas-ca.github.io/JS-Code-Quiz/index.html
+https://fitness-tracker-clos.herokuapp.com/
 
 ![alt text](./public/Images/Site.PNG)
