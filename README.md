@@ -8,6 +8,11 @@ An easy app that allows anyone to access the website and enter there workout. In
 2/ Add exercises to the workout
 3/ Track stats
 
+## Built With
+* Express.js
+* Node.js
+* MongoDB
+
 ## Image
 
 https://fitness-tracker-clos.herokuapp.com/
